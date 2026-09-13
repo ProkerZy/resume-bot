@@ -1,0 +1,13 @@
+bin/
+obj/
+
+.vs/
+.vscode/
+.idea/
+
+.DS_Store
+
+*.log
+
+#секреты
+appsettings.*.json
